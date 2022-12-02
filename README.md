@@ -4,6 +4,7 @@ Documentation de déploiement:
   En local:
   
   1.Ecrire le file 'Dockerfile' 
+  
   Parce que l'application testé est une application javaweb exécute sur Tomcat, la prèmiere chose est que importer le tomcat.
   FROM tomcat:9-jdk8
   
